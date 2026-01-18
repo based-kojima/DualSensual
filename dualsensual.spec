@@ -11,7 +11,7 @@ project_root = Path(SPECPATH)
 
 a = Analysis(
     ['src/main.py'],
-    pathex=[str(project_root)],
+    pathex=[str(project_root), str(project_root / 'src')],
     binaries=[
         ('hidapi.dll', '.'),
     ],
