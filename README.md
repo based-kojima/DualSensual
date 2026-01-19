@@ -1,3 +1,5 @@
+![DualSensual Banner](2242b80d-ae24-4fdc-826e-8562760afad6.png)
+
 # Dual Sensual
 
 DualSensual is a playful but serious experiment in repurposing the PS5 DualSense controller as a high-fidelity haptic device.
