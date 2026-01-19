@@ -1,6 +1,8 @@
 # Dual Sensual
 
-A Windows application for controlling DualSense (PS5) controller vibration with customizable patterns.
+DualSensual is a playful but serious experiment in repurposing the PS5 DualSense controller as a high-fidelity haptic device.
+While originally designed for games, the DualSense hardware lends itself surprisingly well to adult, artistic, and alternative interactive experiences. This project exposes and remaps those features in real time.
+For consenting adults, curiosity, and creative misuse of hardware.
 
 ## Features
 
